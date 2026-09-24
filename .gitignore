@@ -13,3 +13,5 @@ runs_CAPcell/
 venv/
 __pycache__/
 .DS_Store
+
+runs/
