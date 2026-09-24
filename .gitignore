@@ -1,0 +1,15 @@
+# Videos pesados
+video/
+*.mp4
+*.mov
+
+# Datasets locales temporales de YOLO
+CAPcell_YOLO/
+dataset/
+runs_CAPcell/
+
+# Archivos del sistema y entornos virtuales
+.venv/
+venv/
+__pycache__/
+.DS_Store
