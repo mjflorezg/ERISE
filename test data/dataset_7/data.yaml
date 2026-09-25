@@ -1,0 +1,4 @@
+names:
+  0: Particle 1
+path: .
+train: train.txt
