@@ -1,0 +1,6 @@
+names:
+  0: P1
+  1: SP
+  2: P2
+path: .
+train: train.txt
